@@ -4,5 +4,5 @@ instance/
 .env
 *.db
 migrations/
-employees.db
-employee management/
+hello/
+venv/

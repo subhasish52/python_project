@@ -1,7 +1,7 @@
-venv
-__pycache__
+venv/
+__pycache__/
 app/__pycache__
 app/employees.db
-employee management
-instance
-migrations
+employee management/
+instance/
+migrations/
